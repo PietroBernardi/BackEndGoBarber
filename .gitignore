@@ -7,3 +7,5 @@ comandos.txt
 
 tmp/*
 !tmp/.gitkeep
+
+README.md
