@@ -3,7 +3,7 @@ Um aplicativo de agendamento que permite aos usuários agendar uma horário com 
 
 **Tecnologias**
 
-- [Node.js][https://nodejs.org/]
+- [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Docker](https://www.docker.com/docker-community)
 - [PostgreSQL](https://www.postgresql.org/)
@@ -16,12 +16,12 @@ Um aplicativo de agendamento que permite aos usuários agendar uma horário com 
 - [celebrate](https://github.com/arb/celebrate)
 - [handlebars](https://handlebarsjs.com/)
 - [tsyringe](https://github.com/microsoft/tsyringe/)
-- [VS Code][https://code.visualstudio.com/]
-- [ESLint][https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint]
+- [VS Code](https://code.visualstudio.com/)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 Este projeto esta sendo desenvolvido em [Typescript](https://www.typescriptlang.org/).
 
-## Técnicas de desenvolvimento##
+## Técnicas de desenvolvimento
 
 **TDD: Test-driven development**
 
@@ -32,7 +32,6 @@ Este projeto esta sendo desenvolvido em [Typescript](https://www.typescriptlang.
 - Interface segregation principle.
 - Dependency Inversion principle.
 
-==================================================================
 ## Requisitos e regras de negócio
 - RF  -> Requisitos funcionais
 - RNF -> Requisitos não funcionais
