@@ -1,4 +1,5 @@
-Neste projeto esta sendo desenvolvido em Typescript
+Este projeto esta sendo desenvolvido em Typescript.
+
 É alicado neste projeto as técnicas de TDD e SOLID.
 
 ==================================================================
