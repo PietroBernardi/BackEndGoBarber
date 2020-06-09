@@ -1,19 +1,42 @@
-Este projeto esta sendo desenvolvido em Typescript.
+# GoBarber - API
+Um aplicativo de agendamento que permite aos usuários agendar uma horário com o barbeiro e controlar a programação do barbeiro.
 
-É alicado neste projeto as técnicas de TDD e SOLID.
+## Tecnologias
+
+**[Node.js][nodejs]**
+**[Express](https://expressjs.com/)**
+**[Docker](https://www.docker.com/docker-community)**
+**[PostgreSQL](https://www.postgresql.org/)**
+**[MongoDB](https://www.mongodb.com/)**
+**[Multer](https://github.com/expressjs/multer)**
+**[Bcrypt](https://www.npmjs.com/package/bcrypt)**
+**[Nodemailer](https://nodemailer.com/about/)**
+**[date-fns](https://date-fns.org/)**
+**[jest](https://jestjs.io/)**
+**[celebrate](https://github.com/arb/celebrate)**
+**[handlebars](https://handlebarsjs.com/)**
+**[tsyringe](https://github.com/microsoft/tsyringe/)**
+**[VS Code][vc] with [ESLint][vceslint]**
+
+Este projeto esta sendo desenvolvido em Typescript (https://www.typescriptlang.org/).
+
+É alicado neste projeto as técnicas de desenvolvimento:
+**TDD - Test-driven development**
+**SOLID**
+***Single-responsibility Principle.***
+***Open-closed Principle.***
+***Liskov substitution principle.***
+***Interface segregation principle.***
+***Dependency Inversion principle.***
 
 ==================================================================
+## Requisitos e regras de negócio:
 
-GoBarber -
-Uma aplicação para agendamentos de serviços de barbearias, separando por cada prestador de serviço.
+**RF  - Requisitos funcionais**
+**RNF - Requisitos não funcionais**
+**RN  - Regras de negocio**
 
-Requisitos e regras de negócio:
-
-** RF  - Requisitos funcionais
-** RNF - Requisitos não funcionais
-** RN  - Regras de negocio
-
-# Recuperação de senha
+### Recuperação de senha
 
 **RF**
 
@@ -32,7 +55,7 @@ Requisitos e regras de negócio:
 - O link enviado por e-mail para resetar senha, deve expirar em 2h;
 - O usuário precisa confirmar a nova senha ao resetar sua senha;
 
-# Atualização do perfil
+### Atualização do perfil
 
 **RF**
 
@@ -45,7 +68,7 @@ Requisitos e regras de negócio:
 - Para atualizar sua senha, o usuário precisa confirmar a nova senha;
 
 
-# Painel do prestador
+### Painel do prestador
 
 **RF**
 
@@ -63,7 +86,7 @@ Requisitos e regras de negócio:
 
 - A notificação deve ter um status de lida ou não-lida para que o prestador possa controlar
 
-# Agendamento de serviços
+## Agendamento de serviços
 
 **RF**
 
