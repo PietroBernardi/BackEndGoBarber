@@ -18,6 +18,13 @@ Um aplicativo de agendamento que permite aos usuários agendar uma horário com 
 - [tsyringe](https://github.com/microsoft/tsyringe/)
 - [VS Code](https://code.visualstudio.com/)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [DotEnv](https://github.com/motdotla/dotenv)
+- [class-transformer](https://github.com/typestack/class-transformer)
+- [aws-sdk](https://aws.amazon.com/tools/?nc1=h_ls)
+- [AWS SES](https://aws.amazon.com/ses/?nc1=h_ls)
+- [mime](https://github.com/broofa/mime)
+- [redis](https://redis.io/)
+- [ioredis](https://github.com/luin/ioredis)
 
 Este projeto esta sendo desenvolvido em [Typescript](https://www.typescriptlang.org/).
 

@@ -4,9 +4,10 @@ coverage/
 node_modules/
 build/
 temp/
+.env
 comandos.txt
+ormconfig.json
 
 tmp/*
 !tmp/.gitkeep
 
-README.md
