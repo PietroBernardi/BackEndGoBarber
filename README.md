@@ -25,6 +25,7 @@ Um aplicativo de agendamento que permite aos usuários agendar uma horário com 
 - [mime](https://github.com/broofa/mime)
 - [redis](https://redis.io/)
 - [ioredis](https://github.com/luin/ioredis)
+- [node rate limiter flexible](https://github.com/animir/node-rate-limiter-flexible)
 
 Este projeto esta sendo desenvolvido em [Typescript](https://www.typescriptlang.org/).
 
